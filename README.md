@@ -18,7 +18,7 @@ I am a passionate Computer Science undergrad focused on **Cybersecurity, VAPT, a
 ### 🛠️ Languages and Tools
 | **Domain** | **Skills** |
 | :--- | :--- |
-| **Data Structures** | Python, Java, C |
+| **Programming Fundamentals** | Python, Java, C |
 | **Security** | VAPT, SOC Analysis, Ethical Hacking, API Testing |
 | **Tools** | Splunk, Burp Suite, Wireshark, Kali Linux |
 
